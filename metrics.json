@@ -1,0 +1,139 @@
+{
+  "logreg": {
+    "threshold": 0.0,
+    "test": {
+      "accuracy": 0.6458333333333334,
+      "precision_macro": 0.7013468013468014,
+      "recall_macro": 0.6458333333333334,
+      "f1_macro": 0.6605031936301287
+    },
+    "test_with_threshold": {
+      "accuracy": 0.6458333333333334,
+      "precision_macro": 0.7013468013468014,
+      "recall_macro": 0.6458333333333334,
+      "f1_macro": 0.6605031936301287
+    },
+    "cv5_accuracy": 0.7041666666666667,
+    "cv5_f1_macro": 0.7051642801642801,
+    "per_class": {
+      "academics": {
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1-score": 0.5714285714285714,
+        "support": 8.0
+      },
+      "events": {
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1-score": 0.4444444444444444,
+        "support": 8.0
+      },
+      "transport": {
+        "precision": 0.7777777777777778,
+        "recall": 0.875,
+        "f1-score": 0.8235294117647058,
+        "support": 8.0
+      },
+      "clubs": {
+        "precision": 1.0,
+        "recall": 0.625,
+        "f1-score": 0.7692307692307693,
+        "support": 8.0
+      },
+      "facilities": {
+        "precision": 0.36363636363636365,
+        "recall": 0.5,
+        "f1-score": 0.42105263157894735,
+        "support": 8.0
+      },
+      "other": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1-score": 0.9333333333333333,
+        "support": 8.0
+      },
+      "accuracy": 0.6458333333333334,
+      "macro avg": {
+        "precision": 0.7013468013468014,
+        "recall": 0.6458333333333334,
+        "f1-score": 0.6605031936301287,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.7013468013468014,
+        "recall": 0.6458333333333334,
+        "f1-score": 0.6605031936301287,
+        "support": 48.0
+      }
+    }
+  },
+  "linearsvc": {
+    "threshold": 0.0,
+    "test": {
+      "accuracy": 0.6458333333333334,
+      "precision_macro": 0.7009920634920634,
+      "recall_macro": 0.6458333333333334,
+      "f1_macro": 0.6532407407407407
+    },
+    "test_with_threshold": {
+      "accuracy": 0.6458333333333334,
+      "precision_macro": 0.7009920634920634,
+      "recall_macro": 0.6458333333333334,
+      "f1_macro": 0.6532407407407407
+    },
+    "cv5_accuracy": 0.7125,
+    "cv5_f1_macro": 0.7119522369084992,
+    "per_class": {
+      "academics": {
+        "precision": 0.7142857142857143,
+        "recall": 0.625,
+        "f1-score": 0.6666666666666666,
+        "support": 8.0
+      },
+      "events": {
+        "precision": 0.375,
+        "recall": 0.375,
+        "f1-score": 0.375,
+        "support": 8.0
+      },
+      "transport": {
+        "precision": 0.7,
+        "recall": 0.875,
+        "f1-score": 0.7777777777777778,
+        "support": 8.0
+      },
+      "clubs": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 8.0
+      },
+      "facilities": {
+        "precision": 0.4166666666666667,
+        "recall": 0.625,
+        "f1-score": 0.5,
+        "support": 8.0
+      },
+      "other": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1-score": 0.9333333333333333,
+        "support": 8.0
+      },
+      "accuracy": 0.6458333333333334,
+      "macro avg": {
+        "precision": 0.7009920634920634,
+        "recall": 0.6458333333333334,
+        "f1-score": 0.6532407407407407,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.7009920634920634,
+        "recall": 0.6458333333333334,
+        "f1-score": 0.6532407407407407,
+        "support": 48.0
+      }
+    }
+  },
+  "best_model": "logreg"
+}

@@ -1,0 +1,19 @@
+OK  true=academics  pred=academics  conf=0.82  how do i apply for a scholarship renewal
+OK  true=academics  pred=academics  conf=0.56  what is the exam pattern for the algorithms paper
+OK  true=academics  pred=academics  conf=0.82  can i audit a course without credits
+OK  true=events     pred=events     conf=0.63  is there a hackathon next month
+OK  true=events     pred=events     conf=0.52  when is the placement drive starting
+OK  true=transport  pred=transport  conf=0.93  where do i catch the bus to the airport
+OK  true=transport  pred=transport  conf=0.58  is there parking near the admin block
+OK  true=clubs      pred=clubs      conf=0.92  how do i get into the robotics club
+OK  true=clubs      pred=clubs      conf=0.89  when do the photography club recruitments begin
+OK  true=facilities pred=facilities conf=0.62  is the cafeteria open on holidays
+OK  true=facilities pred=facilities conf=0.91  where can i charge my laptop in the library
+OK  true=facilities pred=facilities conf=0.43  who do i call if the hostel water heater breaks
+OK  true=other      pred=other      conf=0.51  what is the population of canada
+OK  true=other      pred=other      conf=0.44  remind me to buy milk
+OK  true=other      pred=other      conf=0.46  how do i bake a chocolate cake
+ERR true=other      pred=facilities conf=0.39  who is the richest man in the world
+ERR true=other      pred=academics  conf=0.30  translate hello into spanish
+
+15/17 correct

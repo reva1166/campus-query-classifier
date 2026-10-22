@@ -1,0 +1,6 @@
+threshold,accuracy,f1_macro,share_routed_to_other,in_domain_wrongly_routed_to_other
+0.0,0.646,0.661,0.0,0
+0.3,0.625,0.626,0.083,2
+0.4,0.604,0.603,0.312,12
+0.5,0.458,0.475,0.604,25
+0.6,0.417,0.42,0.688,28

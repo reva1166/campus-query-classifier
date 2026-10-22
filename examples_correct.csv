@@ -1,0 +1,9 @@
+text,label,source,split,pred,confidence
+is the toastmasters club active in our college,clubs,own,test,clubs,0.846
+where is the bus pickup point for the south campus,transport,own,test,transport,0.813
+what are the library opening hours,facilities,own,test,facilities,0.806
+what is the bus route from the hostel to main gate,transport,own,test,transport,0.769
+how many clubs can i join,clubs,own,test,clubs,0.765
+where are the printing and xerox shops,facilities,own,test,facilities,0.764
+when does the next college bus leave,transport,own,test,transport,0.744
+can you list upcoming events for this month,events,own,test,events,0.722

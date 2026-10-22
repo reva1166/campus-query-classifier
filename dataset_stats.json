@@ -1,0 +1,34 @@
+{
+  "rows_before_cleaning": 240,
+  "rows_after_cleaning": 240,
+  "removed": 0,
+  "counts": {
+    "test": {
+      "academics": 8,
+      "clubs": 8,
+      "events": 8,
+      "facilities": 8,
+      "other": 8,
+      "transport": 8
+    },
+    "train": {
+      "academics": 24,
+      "clubs": 24,
+      "events": 24,
+      "facilities": 24,
+      "other": 24,
+      "transport": 24
+    },
+    "validation": {
+      "academics": 8,
+      "clubs": 8,
+      "events": 8,
+      "facilities": 8,
+      "other": 8,
+      "transport": 8
+    }
+  },
+  "by_source": {
+    "own": 240
+  }
+}

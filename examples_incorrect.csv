@@ -1,0 +1,18 @@
+text,label,source,split,pred,confidence
+does the campus have a pharmacy,facilities,own,test,transport,0.595
+is there a late night transport for the library users,transport,own,test,facilities,0.479
+is there a seminar on entrepreneurship,events,own,test,facilities,0.465
+how do i request maintenance for the air conditioner,facilities,own,test,events,0.456
+can i do a minor in business studies,academics,own,test,facilities,0.454
+when does the ncc enrollment start,clubs,own,test,events,0.453
+how do i apply for the dual degree program,academics,own,test,events,0.407
+when is the diwali celebration on campus,events,own,test,facilities,0.366
+what's on at the auditorium on saturday,events,own,test,facilities,0.365
+how do i apply for a hostel room,facilities,own,test,academics,0.358
+how is the cgpa calculated,academics,own,test,facilities,0.357
+can i bring a friend to the music concert,events,own,test,transport,0.325
+where can i find a list of all registered student societies,clubs,own,test,events,0.312
+what are the visiting hours for the hostel,facilities,own,test,academics,0.311
+what time is the physics lecture on monday,academics,own,test,facilities,0.307
+what clubs are available for first year students,clubs,own,test,events,0.3
+who invented the telephone,other,own,test,events,0.208

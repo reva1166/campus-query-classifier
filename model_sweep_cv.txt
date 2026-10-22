@@ -1,0 +1,8 @@
+word+char LR C=10        0.689 ± 0.078
+word LR C=10             0.594 ± 0.059
+word LR C=100            0.597 ± 0.064
+word uni LR C=30         0.670 ± 0.061
+word SVC C=1             0.592 ± 0.061
+word+char SVC C=0.5      0.703 ± 0.082
+word ComplementNB        0.594 ± 0.086
+count MultinomialNB      0.533 ± 0.069

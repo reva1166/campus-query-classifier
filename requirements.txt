@@ -1,0 +1,9 @@
+scikit-learn>=1.4
+pandas
+numpy
+matplotlib
+joblib
+flask
+datasets   # only needed for --use-clinc
+
+gunicorn>=20.1.0
